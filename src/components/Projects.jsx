@@ -19,7 +19,7 @@ const projects = [
   {
     title: "AUTOSPLIT - AI EXPENSE MANAGER",
     image: project2,
-    link: "https://shubhampersia.github.io/",
+    link: "https://auto-split.vercel.app/",
     description: [
       "Built with Next.js (React), Tailwind CSS, and Convex DB for real-time updates.",
       "Integrated Gemini AI for natural language input and auto-categorization.",
@@ -31,7 +31,7 @@ const projects = [
   {
     title: "SMARTWEB SUMMARIZER - AI CHROME EXTENSION",
     image: project3,
-    link: "https://shubhampersia.github.io/",
+    link: "https://github.com/shubhampersia/smartWeb",
     description: [
       "Built a Chrome extension using JavaScript and Gemini AI API.",
       "Generated real-time AI summaries of web content.",
